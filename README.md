@@ -1,6 +1,6 @@
 # S1.04-POO-1-Tema-4
 
-This repository contains PHP exercises focused on creating and using objects in PHP, using inheritance as a mechanism in objects
+This repository contains PHP exercises focused on creating and using objects in PHP, using inheritance as a mechanism in objects.
 
 ## 📁 Files
 
@@ -12,8 +12,6 @@ This repository contains PHP exercises focused on creating and using objects in 
 
 ## 🚀 How to Use
 
-- Start a local PHP server.
+- You can view the results in your terminal. Make sure the PHP executable is include in your enviroment varibles. To run a file, use the file command in your terminal:
 
-- Open`index.php` in your browser.
-
-- Choose a `level` to explore the exercises.
+- `php filename.php`
