@@ -10,8 +10,8 @@ This repository contains PHP exercises focused on creating and using objects in 
 
 - `level3.php`
 
-## 🚀 How to Use
+## 📋 Requirements and ▶️ Execution
 
-- You can view the results in your terminal. Make sure the PHP executable is include in your enviroment varibles. To run a file, use the file command in your terminal:
+- You can view the results in your terminal. Make sure the PHP executable is include in your enviroment variables. To run a file, use the file command in your terminal:
 
 - `php filename.php`
