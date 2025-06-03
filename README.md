@@ -4,14 +4,21 @@ This repository contains PHP exercises focused on creating and using objects in 
 
 ## 📁 Files
 
-- `level1.php`
-
-- `level2.php`
-
-- `level3.php`
+- `level1/`
+  - `exercise1/`
+    - `class/Employee.php`
+    - `index.php`
+  - `exercise2/`
+    - `classes/Shape.php`
+    - `classes/Rectangle.php`
+    - `classes/Triangle.php`
+    - `index.php`
 
 ## 📋 Requirements and ▶️ Execution
 
-- You can view the results in your terminal. Make sure the PHP executable is include in your enviroment variables. To run a file, use the file command in your terminal:
 
-- `php filename.php`
+- You can view the results in your terminal. Make sure the PHP executable is included in your environment variables and that you are in the folder where the file is located.
+
+Run the following command in your terminal to execute the script:
+
+- `php index.php`
