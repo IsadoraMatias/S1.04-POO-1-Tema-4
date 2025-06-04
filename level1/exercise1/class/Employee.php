@@ -3,12 +3,12 @@ class Employee {
     public string $name;
     public float $salary;
 
-    function __construct (string $name, float $salary) {  
+    public function __construct (string $name, float $salary) {  
         $this -> name = $name;
         $this -> salary = $salary;
     }
 
-    function print(){             
+    public function printTaxes() :void {             
         if($this->salary >= 6000 ){
           echo $this -> name . ", you will need to pay taxes" . PHP_EOL;
         }

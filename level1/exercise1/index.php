@@ -1,5 +1,7 @@
 <?php
 include('class/Employee.php');
-$employee = new Employee("Clara", 2000);;
-$employee -> print();
+$employee1 = new Employee("Clara", 8000);
+$employee2 = new Employee("Carlos", 5600.70);
+$employee1 -> printTaxes();
+$employee2 -> printTaxes();
 ?>
