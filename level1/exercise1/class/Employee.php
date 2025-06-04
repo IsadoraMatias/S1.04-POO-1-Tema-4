@@ -3,7 +3,7 @@ class Employee {
     public string $name;
     public float $salary;
 
-    public function __construct (string $name, float $salary) {  
+    public function __construct (string $name, int $salary) {  
         $this -> name = $name;
         $this -> salary = $salary;
     }
