@@ -1,9 +1,9 @@
 <?php
 class Employee { 
-    public $name;
-    public $salary;
+    public string $name;
+    public float $salary;
 
-    function initialize ($name, $salary) {  
+    function __construct (string $name, float $salary) {  
         $this -> name = $name;
         $this -> salary = $salary;
     }
