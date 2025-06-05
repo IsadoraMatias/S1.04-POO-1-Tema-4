@@ -9,7 +9,7 @@ class Employee {
     }
 
     public function printTaxes() :void {             
-        if($this->salary >= 6000 ){
+        if($this->salary > 6000 ){
           echo $this -> name . ", you will need to pay taxes" . PHP_EOL;
         }
         else{
